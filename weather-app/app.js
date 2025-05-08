@@ -69,11 +69,3 @@ function main() {
 
 main();
 
-
-
-
-
-// Step 5: Simulate dependency issues: 
-// -Delete node_modules folder
-// -Use npm install to reinstall all dependencies from package.json
-// -Verify the app still works correctly
